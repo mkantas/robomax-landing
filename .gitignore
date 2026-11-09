@@ -1,0 +1,9 @@
+# Deployment config (not part of the site)
+wrangler.toml
+worker.js
+.wrangler/
+.wranglerignore
+
+# OS files
+.DS_Store
+Thumbs.db
